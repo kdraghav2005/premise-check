@@ -1,0 +1,12 @@
+{
+  "provider": "openai_compat",
+  "model": "openai/gpt-oss-120b",
+  "api_key_env": "PITCHCHECK_API_KEY",
+  "base_url": "https://api.groq.com/openai/v1",
+  "temperature": 0,
+  "timeout_s": 60,
+  "retrieval": {
+    "mode": "full",
+    "k": 5
+  }
+}

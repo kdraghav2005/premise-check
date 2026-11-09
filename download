@@ -1,0 +1,8 @@
+outputs/
+freeze/
+runs/
+__pycache__/
+*.pyc
+config.local.json
+.env
+*.key

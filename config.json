@@ -1,0 +1,9 @@
+{
+  "provider": "mock",
+  "model": "mock",
+  "api_key_env": "PITCHCHECK_API_KEY",
+  "base_url": "",
+  "temperature": 0,
+  "timeout_s": 60,
+  "retrieval": { "mode": "full", "k": 5 }
+}
